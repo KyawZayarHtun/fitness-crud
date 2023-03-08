@@ -1,0 +1,46 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Kyaw Zayar",
+      "lastName": "Htun",
+      "email": "kyaw@gmail.com",
+      "mobile": "09965122877",
+      "weight": 12,
+      "height": 1.6,
+      "bmi": 4.687499999999999,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Toxic Fat Reduction",
+        "Building Lean Muscle",
+        "Fitness"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-03-12T17:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Aye Myat",
+      "lastName": "Htun",
+      "email": "aye@gmail.com",
+      "mobile": "09752390306",
+      "weight": 1.4,
+      "height": 2,
+      "bmi": 0.35,
+      "bmiResult": "Underweight",
+      "gender": "Female",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Energy and Endurance",
+        "Healthier Digestive System",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-03-31T17:30:00.000Z",
+      "id": 2
+    }
+  ]
+}
